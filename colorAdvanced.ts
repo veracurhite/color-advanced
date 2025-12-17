@@ -1,4 +1,4 @@
-let i: number
+let b: number
 let paletteDictionary: any = {}
 let paleet: Array<number>
 
@@ -15,8 +15,8 @@ namespace advancedColor {
     //% block="Load palette with name $name"
     export function loadPalette(name: string){
         paleet = paletteDictionary[name]
-        for(i=1;i<=15;i++){
-            color.setColor(i,paleet[i])
+        for(b=1;b<=15;b++){
+            color.setColor(b,paleet[b])
         }
     }
 }
