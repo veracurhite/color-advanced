@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAA//8A8ERED19fRfRfVV/0X1Vf9F8fVfTwVVUPAP//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Carl"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pink"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
