@@ -15,7 +15,7 @@ namespace advancedColor {
     //% block="Load palette with name $name"
     export function loadPalette(name: string){
         paleet = paletteDictionary[name]
-        for(b=1;b<=15;b++){
+        for(b=2;b<=16;b++){
             color.setColor(b,paleet[b])
         }
     }
